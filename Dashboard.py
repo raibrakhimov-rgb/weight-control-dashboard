@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Google Sheets CSV (лист "Общая сводная")
-GOOGLE_SHEET_CSV = "https://docs.google.com/spreadsheets/d/1FRvs6hAsoH8GyuSruRbGHicZKXUyzI8D8Mko5L2IeQQ/export?format=csv&gid=0"
+GOOGLE_SHEET_CSV = "https://docs.google.com/spreadsheets/d/1FRvs6hAsoH8GyuSruRbGHicZKXUyzI8D8Mko5L2IeQQ/export?format=csv&gid=1284074899"
 
 # Если используешь отдельный sheet для dashboard_data — поменяй ссылку
 
